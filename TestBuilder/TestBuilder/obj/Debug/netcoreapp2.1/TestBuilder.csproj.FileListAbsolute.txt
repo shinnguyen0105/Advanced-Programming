@@ -1,0 +1,11 @@
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\bin\Debug\netcoreapp2.1\TestBuilder.deps.json
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\bin\Debug\netcoreapp2.1\TestBuilder.runtimeconfig.json
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\bin\Debug\netcoreapp2.1\TestBuilder.runtimeconfig.dev.json
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\bin\Debug\netcoreapp2.1\TestBuilder.dll
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\bin\Debug\netcoreapp2.1\TestBuilder.pdb
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\obj\Debug\netcoreapp2.1\TestBuilder.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\obj\Debug\netcoreapp2.1\TestBuilder.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\obj\Debug\netcoreapp2.1\TestBuilder.AssemblyInfoInputs.cache
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\obj\Debug\netcoreapp2.1\TestBuilder.AssemblyInfo.cs
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\obj\Debug\netcoreapp2.1\TestBuilder.dll
+D:\Greenwich\Advanced-Programming\TestBuilder\TestBuilder\obj\Debug\netcoreapp2.1\TestBuilder.pdb

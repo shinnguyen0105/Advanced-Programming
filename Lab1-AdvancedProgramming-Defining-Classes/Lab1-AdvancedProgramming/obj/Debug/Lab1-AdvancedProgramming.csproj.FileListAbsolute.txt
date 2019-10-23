@@ -1,0 +1,22 @@
+C:\Users\nhuvi\source\repos\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\bin\Debug\Lab1-AdvancedProgramming.exe.config
+C:\Users\nhuvi\source\repos\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\bin\Debug\Lab1-AdvancedProgramming.exe
+C:\Users\nhuvi\source\repos\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\bin\Debug\Lab1-AdvancedProgramming.pdb
+C:\Users\nhuvi\source\repos\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\nhuvi\source\repos\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.exe
+C:\Users\nhuvi\source\repos\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.pdb
+C:\Users\nhuvi\Desktop\New folder\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\bin\Debug\Lab1-AdvancedProgramming.exe.config
+C:\Users\nhuvi\Desktop\New folder\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\bin\Debug\Lab1-AdvancedProgramming.exe
+C:\Users\nhuvi\Desktop\New folder\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\bin\Debug\Lab1-AdvancedProgramming.pdb
+C:\Users\nhuvi\Desktop\New folder\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csprojAssemblyReference.cache
+C:\Users\nhuvi\Desktop\New folder\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\nhuvi\Desktop\New folder\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.exe
+C:\Users\nhuvi\Desktop\New folder\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.pdb
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csprojAssemblyReference.cache
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csproj.CoreCompileInputs.cache
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.exe
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.pdb
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming-Defining-Classes\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csprojAssemblyReference.cache
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming-Defining-Classes\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.csproj.CoreCompileInputs.cache
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming-Defining-Classes\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.exe
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab1-AdvancedProgramming-Defining-Classes\Lab1-AdvancedProgramming\obj\Debug\Lab1-AdvancedProgramming.pdb

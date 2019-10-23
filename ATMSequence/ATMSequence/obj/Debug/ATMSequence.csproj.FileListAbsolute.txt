@@ -1,0 +1,14 @@
+C:\Users\nhuvi\source\repos\ATMSequence\ATMSequence\bin\Debug\ATMSequence.exe.config
+C:\Users\nhuvi\source\repos\ATMSequence\ATMSequence\bin\Debug\ATMSequence.exe
+C:\Users\nhuvi\source\repos\ATMSequence\ATMSequence\bin\Debug\ATMSequence.pdb
+C:\Users\nhuvi\source\repos\ATMSequence\ATMSequence\obj\Debug\ATMSequence.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\ATMSequence\ATMSequence\obj\Debug\ATMSequence.csproj.CoreCompileInputs.cache
+C:\Users\nhuvi\source\repos\ATMSequence\ATMSequence\obj\Debug\ATMSequence.exe
+C:\Users\nhuvi\source\repos\ATMSequence\ATMSequence\obj\Debug\ATMSequence.pdb
+D:\Greenwich\Advanced-Programming\ATMSequence\ATMSequence\bin\Debug\ATMSequence.exe.config
+D:\Greenwich\Advanced-Programming\ATMSequence\ATMSequence\bin\Debug\ATMSequence.exe
+D:\Greenwich\Advanced-Programming\ATMSequence\ATMSequence\bin\Debug\ATMSequence.pdb
+D:\Greenwich\Advanced-Programming\ATMSequence\ATMSequence\obj\Debug\ATMSequence.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\ATMSequence\ATMSequence\obj\Debug\ATMSequence.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\ATMSequence\ATMSequence\obj\Debug\ATMSequence.exe
+D:\Greenwich\Advanced-Programming\ATMSequence\ATMSequence\obj\Debug\ATMSequence.pdb

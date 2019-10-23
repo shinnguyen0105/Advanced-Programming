@@ -1,0 +1,11 @@
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.deps.json
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.runtimeconfig.json
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.runtimeconfig.dev.json
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.dll
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.pdb
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.csprojAssemblyReference.cache
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.csproj.CoreCompileInputs.cache
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.AssemblyInfoInputs.cache
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.AssemblyInfo.cs
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.dll
+D:\Greenwich\FGW.Advanced-Programming\4. Labs\1. OOP\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.pdb

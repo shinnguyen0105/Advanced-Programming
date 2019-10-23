@@ -1,0 +1,11 @@
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\bin\Debug\netcoreapp2.1\Polymorphms.deps.json
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\bin\Debug\netcoreapp2.1\Polymorphms.runtimeconfig.json
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\bin\Debug\netcoreapp2.1\Polymorphms.runtimeconfig.dev.json
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\bin\Debug\netcoreapp2.1\Polymorphms.dll
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\bin\Debug\netcoreapp2.1\Polymorphms.pdb
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\obj\Debug\netcoreapp2.1\Polymorphms.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\obj\Debug\netcoreapp2.1\Polymorphms.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\obj\Debug\netcoreapp2.1\Polymorphms.AssemblyInfoInputs.cache
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\obj\Debug\netcoreapp2.1\Polymorphms.AssemblyInfo.cs
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\obj\Debug\netcoreapp2.1\Polymorphms.dll
+D:\Greenwich\Advanced-Programming\Polymorphms\Polymorphms\obj\Debug\netcoreapp2.1\Polymorphms.pdb

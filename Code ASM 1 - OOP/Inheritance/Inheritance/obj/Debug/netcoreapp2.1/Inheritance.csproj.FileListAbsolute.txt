@@ -1,0 +1,11 @@
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.deps.json
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.runtimeconfig.json
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.runtimeconfig.dev.json
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.dll
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.pdb
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.AssemblyInfoInputs.cache
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.AssemblyInfo.cs
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.dll
+D:\Greenwich\Advanced-Programming\Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.pdb
