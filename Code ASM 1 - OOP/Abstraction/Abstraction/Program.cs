@@ -3,7 +3,12 @@ using System.Collections.Generic;
 
 namespace Inheritance
 {
-    public abstract class Animal
+    public abstract class Farm
+    {
+        public virtual void Status()
+        { }
+    }
+    public class Animal : Farm
     {
         private string name;
         private int age;
@@ -18,49 +23,27 @@ namespace Inheritance
 
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
-
-            set
-            {
-                this.name = value;
-            }
+            get{return this.name;}
+            set{this.name = value;}
         }
-
         public int Age
         {
-            get
-            {
-                return this.age;
-            }
-
-            set
-            {
-                this.age = value;
-            }
+            get{return this.age;}
+            set{this.age = value;}
         }
 
         public string Gender
         {
-            get
-            {
-                return this.gender;
-            }
-
-            set
-            {
-                this.gender = value;
-            }
+            get{return this.gender;}
+            set{this.gender = value;}
         }
         public virtual void MakeSound()
         {
-
+            Console.WriteLine("empty");
         }
-        public virtual void Status()
+        public override void Status()
         {
-
+            Console.WriteLine("==Information of Animal==");
         }
     }
     public class Chicken : Animal

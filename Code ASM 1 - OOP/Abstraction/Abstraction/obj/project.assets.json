@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Abstraction\\Abstraction\\Abstraction.csproj",
+      "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Abstraction\\Abstraction\\Abstraction.csproj",
       "projectName": "Abstraction",
-      "projectPath": "D:\\Greenwich\\Advanced-Programming\\Abstraction\\Abstraction\\Abstraction.csproj",
+      "projectPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Abstraction\\Abstraction\\Abstraction.csproj",
       "packagesPath": "C:\\Users\\Shin Nguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\Greenwich\\Advanced-Programming\\Abstraction\\Abstraction\\obj\\",
+      "outputPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Abstraction\\Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

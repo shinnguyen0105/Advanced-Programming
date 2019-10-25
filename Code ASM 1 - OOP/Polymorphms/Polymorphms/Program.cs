@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Inheritance
 {
-    public abstract class Animal
+    public class Animal
     {
         private string name;
         private int age;

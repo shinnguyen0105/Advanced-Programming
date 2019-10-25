@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+      "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
       "projectName": "Encapsulation",
-      "projectPath": "D:\\Greenwich\\Advanced-Programming\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+      "projectPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
       "packagesPath": "C:\\Users\\Shin Nguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\Greenwich\\Advanced-Programming\\Encapsulation\\Encapsulation\\obj\\",
+      "outputPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Encapsulation\\Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

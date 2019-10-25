@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Greenwich\\Advanced-Programming\\Class-Objects\\Class-Objects\\Class-Objects.csproj": {}
+    "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Class-Objects\\Class-Objects\\Class-Objects.csproj": {}
   },
   "projects": {
-    "D:\\Greenwich\\Advanced-Programming\\Class-Objects\\Class-Objects\\Class-Objects.csproj": {
+    "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Class-Objects\\Class-Objects\\Class-Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Class-Objects\\Class-Objects\\Class-Objects.csproj",
+        "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Class-Objects\\Class-Objects\\Class-Objects.csproj",
         "projectName": "Class-Objects",
-        "projectPath": "D:\\Greenwich\\Advanced-Programming\\Class-Objects\\Class-Objects\\Class-Objects.csproj",
+        "projectPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Class-Objects\\Class-Objects\\Class-Objects.csproj",
         "packagesPath": "C:\\Users\\Shin Nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\Greenwich\\Advanced-Programming\\Class-Objects\\Class-Objects\\obj\\",
+        "outputPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Class-Objects\\Class-Objects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ D:\Greenwich\Advanced-Programming\Abstraction\Abstraction\obj\Debug\netcoreapp2.
 D:\Greenwich\Advanced-Programming\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.AssemblyInfo.cs
 D:\Greenwich\Advanced-Programming\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.dll
 D:\Greenwich\Advanced-Programming\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.pdb
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\bin\Debug\netcoreapp2.1\Abstraction.deps.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\bin\Debug\netcoreapp2.1\Abstraction.runtimeconfig.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\bin\Debug\netcoreapp2.1\Abstraction.runtimeconfig.dev.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\bin\Debug\netcoreapp2.1\Abstraction.dll
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\bin\Debug\netcoreapp2.1\Abstraction.pdb
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.AssemblyInfoInputs.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.AssemblyInfo.cs
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.dll
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Abstraction\Abstraction\obj\Debug\netcoreapp2.1\Abstraction.pdb

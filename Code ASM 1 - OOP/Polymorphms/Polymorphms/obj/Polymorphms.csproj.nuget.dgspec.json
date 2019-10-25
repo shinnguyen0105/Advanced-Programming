@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Greenwich\\Advanced-Programming\\Polymorphms\\Polymorphms\\Polymorphms.csproj": {}
+    "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Polymorphms\\Polymorphms\\Polymorphms.csproj": {}
   },
   "projects": {
-    "D:\\Greenwich\\Advanced-Programming\\Polymorphms\\Polymorphms\\Polymorphms.csproj": {
+    "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Polymorphms\\Polymorphms\\Polymorphms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Polymorphms\\Polymorphms\\Polymorphms.csproj",
+        "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Polymorphms\\Polymorphms\\Polymorphms.csproj",
         "projectName": "Polymorphms",
-        "projectPath": "D:\\Greenwich\\Advanced-Programming\\Polymorphms\\Polymorphms\\Polymorphms.csproj",
+        "projectPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Polymorphms\\Polymorphms\\Polymorphms.csproj",
         "packagesPath": "C:\\Users\\Shin Nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\Greenwich\\Advanced-Programming\\Polymorphms\\Polymorphms\\obj\\",
+        "outputPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Polymorphms\\Polymorphms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

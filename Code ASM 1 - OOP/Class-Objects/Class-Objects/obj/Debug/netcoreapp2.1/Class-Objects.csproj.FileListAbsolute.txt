@@ -1,0 +1,11 @@
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\bin\Debug\netcoreapp2.1\Class-Objects.deps.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\bin\Debug\netcoreapp2.1\Class-Objects.runtimeconfig.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\bin\Debug\netcoreapp2.1\Class-Objects.runtimeconfig.dev.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\bin\Debug\netcoreapp2.1\Class-Objects.dll
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\bin\Debug\netcoreapp2.1\Class-Objects.pdb
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\obj\Debug\netcoreapp2.1\Class-Objects.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\obj\Debug\netcoreapp2.1\Class-Objects.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\obj\Debug\netcoreapp2.1\Class-Objects.AssemblyInfoInputs.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\obj\Debug\netcoreapp2.1\Class-Objects.AssemblyInfo.cs
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\obj\Debug\netcoreapp2.1\Class-Objects.dll
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Class-Objects\Class-Objects\obj\Debug\netcoreapp2.1\Class-Objects.pdb

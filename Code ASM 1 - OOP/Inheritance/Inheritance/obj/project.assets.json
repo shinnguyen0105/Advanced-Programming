@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Inheritance\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "D:\\Greenwich\\Advanced-Programming\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Inheritance\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\Shin Nguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\Greenwich\\Advanced-Programming\\Inheritance\\Inheritance\\obj\\",
+      "outputPath": "D:\\Greenwich\\Advanced-Programming\\Code ASM 1 - OOP\\Inheritance\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

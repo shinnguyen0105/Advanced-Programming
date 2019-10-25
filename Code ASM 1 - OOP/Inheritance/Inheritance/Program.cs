@@ -3,67 +3,42 @@ using System.Collections.Generic;
 
 namespace Inheritance
 {
-    public abstract class Animal 
+    public abstract class Animals 
     {
         private string name;
         private int age;
         private string gender;
 
-        protected Animal(string name, int age, string gender)
+        protected Animals(string name, int age, string gender)
         {
             this.Name = name;
             this.Age = age;
             this.Gender = gender;
         }
-
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
-
-            set
-            {
-                this.name = value;
-            }
+            get{return this.name;}
+            set{this.name = value;}
         }
-
         public int Age
         {
-            get
-            {
-                return this.age;
-            }
-
-            set
-            {
-                this.age = value;
-            }
+            get{return this.age;}
+            set{this.age = value;}
         }
-
         public string Gender
         {
-            get
-            {
-                return this.gender;
-            }
-
-            set
-            {
-                this.gender = value;
-            }
+            get{return this.gender;}
+            set{this.gender = value;}
         }
         public virtual string MakeSound()
         {
             return string.Empty;
         }
     }
-    public class Chicken : Animal
+    public class Chicken : Animals
     {
         public Chicken(string name, int age, string gender) : base(name, age, gender)
         {
-
         }
         public override string MakeSound()
         {
@@ -74,14 +49,12 @@ namespace Inheritance
             Console.WriteLine($"{Name} is {Age} day"); 
         }
     }
-    public class Dog : Animal
+    public class Dog : Animals
     {
         public Dog(string name, int age, string gender)
             : base(name, age, gender)
         {
-
         }
-
         public override string MakeSound()
         {
             return "BauBau";

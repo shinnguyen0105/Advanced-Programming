@@ -9,3 +9,14 @@ D:\Greenwich\Advanced-Programming\Encapsulation\Encapsulation\obj\Debug\netcorea
 D:\Greenwich\Advanced-Programming\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.AssemblyInfo.cs
 D:\Greenwich\Advanced-Programming\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.dll
 D:\Greenwich\Advanced-Programming\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.pdb
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.deps.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.runtimeconfig.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.runtimeconfig.dev.json
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.dll
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.pdb
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.AssemblyInfoInputs.cache
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.AssemblyInfo.cs
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.dll
+D:\Greenwich\Advanced-Programming\Code ASM 1 - OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.pdb
